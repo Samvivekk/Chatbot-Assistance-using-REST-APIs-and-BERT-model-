@@ -50,7 +50,7 @@ urlpatterns = [
     ...
 </head>
 <body>
-    <h1>Welcome to IIT Mandi Tech Fest!</h1>
+    <h1>Welcome to the IIT Mandi Tech Fest!</h1>
     <!-- Implement the website's content and layout -->
     ...
     <div id="chatbot-container">
